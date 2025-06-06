@@ -1,4 +1,4 @@
-package org.braulioecheverria.system;
+package org.braulioecheverria.models;
 import org.braulioecheverria.models.Persona;
 
 public class Alumno extends Persona{
