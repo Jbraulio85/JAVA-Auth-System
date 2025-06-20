@@ -1,12 +1,13 @@
 package org.braulioecheverria.views;
-import java.util.Scanner;
+
 import org.braulioecheverria.controllers.ProfesorController;
 import org.braulioecheverria.models.Profesor;
+import org.braulioecheverria.utils.SingletonScanner;
 
 public class ProfesorView {
     Integer op1, op2;
     boolean flag = true;
-    Scanner leer = new Scanner(System.in);
+    final java.util.Scanner leer = SingletonScanner.getInstance().getScanner();
     ProfesorController pc = new ProfesorController();
     Profesor pf;
     
