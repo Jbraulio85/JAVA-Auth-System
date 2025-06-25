@@ -6,13 +6,6 @@ import org.braulioecheverria.utils.SingletonScanner;
 import org.braulioecheverria.utils.InputException;
 
 public class ProfesorController {
-    //CRUD de profesor
-    //Create    crear
-    //Read      leer u obtener/ obtener todos y obtener uno específico
-    //Update    Actualizar
-    //Delete    Eliminar
-    //Try catch
-    //UI/UX User Interface / User Expirience
     final java.util.Scanner leer = SingletonScanner.getInstance().getScanner();
     ArrayList<Profesor> profesores = new ArrayList<Profesor>();
 
