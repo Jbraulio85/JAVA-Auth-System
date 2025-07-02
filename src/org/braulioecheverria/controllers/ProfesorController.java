@@ -7,7 +7,7 @@ import org.braulioecheverria.utils.InputException;
 
 public class ProfesorController {
     final java.util.Scanner leer = SingletonScanner.getInstance().getScanner();
-    ArrayList<Profesor> profesores = new ArrayList<Profesor>();
+    ArrayList<Profesor> profesores = new ArrayList<>();
 
     public ProfesorController(){}
     

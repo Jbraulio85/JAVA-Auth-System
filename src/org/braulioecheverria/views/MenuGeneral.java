@@ -28,10 +28,12 @@ public class MenuGeneral {
                 }
                 switch(op){
                     case 1 -> pv.menuProfesor();
+                    case 2 -> av.menuAlumno();
                     case 3 -> {
                         System.out.println("Hasta pronto, adios!!!");
                         flag = false;
                     }
+                    default -> System.out.println("Selecciona una opcion valida");
                 }
             }catch(Exception e){
                 System.out.println("Error en el sistema " + e.getMessage());

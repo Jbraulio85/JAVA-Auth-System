@@ -7,11 +7,10 @@
             <file>file:/E:/2025/fundamentos/POO/src/org/braulioecheverria/models/Profesor.java</file>
             <file>file:/E:/2025/fundamentos/POO/src/org/braulioecheverria/controllers/ProfesorController.java</file>
             <file>file:/E:/2025/fundamentos/POO/src/org/braulioecheverria/models/Persona.java</file>
-            <file>file:/E:/2025/fundamentos/POO/src/org/braulioecheverria/views/AlumnoView.java</file>
-            <file>file:/E:/2025/fundamentos/POO/src/org/braulioecheverria/controllers/AlumnoController.java</file>
             <file>file:/E:/2025/fundamentos/POO/src/org/braulioecheverria/system/Main.java</file>
-            <file>file:/E:/2025/fundamentos/POO/src/org/braulioecheverria/views/MenuGeneral.java</file>
             <file>file:/E:/2025/fundamentos/POO/src/org/braulioecheverria/utils/SingletonScanner.java</file>
+            <file>file:/E:/2025/fundamentos/POO/src/org/braulioecheverria/models/Alumno.java</file>
+            <file>file:/E:/2025/fundamentos/POO/src/org/braulioecheverria/controllers/AlumnoController.java</file>
         </group>
     </open-files>
 </project-private>
